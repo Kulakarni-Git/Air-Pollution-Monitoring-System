@@ -2,6 +2,7 @@
 The motivation for the project is to develop an IOT project to monitor the real time air pollution monitoring system with the particulates in the surroundings. This aims at knowing the air pollution at various areas to resolve the subject with respective measures.
 ------------------------------------------------------------------------------------
 COMPONENTS:
+
  1.ESP8266 - 1 pcs
  2.SDS 011 - 1 pcs
  3.AHT10 (for Temperature and Humidity) – 1 pcs
