@@ -4,11 +4,17 @@ The motivation for the project is to develop an IOT project to monitor the real 
 COMPONENTS:
 
  1.ESP8266 - 1 pcs
+ 
  2.SDS 011 - 1 pcs
+ 
  3.AHT10 (for Temperature and Humidity) – 1 pcs
+ 
  4.Jumper Wires
+ 
  5.PCB
+ 
  6.USB Cable - 1 pcs
+ 
  7.Arduino IDE
 -------------------------------------------------------------------------------------
 THE CIRCUIT DIAGRAM
