@@ -1,4 +1,5 @@
 # Air-Pollution-Monitoring-System
+
 The motivation for the project is to develop an IOT project to monitor the real time air pollution monitoring system with the particulates in the surroundings. This aims at knowing the air pollution at various areas to resolve the subject with respective measures.
 ------------------------------------------------------------------------------------
 COMPONENTS:
